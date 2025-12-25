@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
+    "name": "Pixwave AI",
+    "tagline": "Advanced Free AI Image Generator",
+    "description": "Pixwave AI - World's most advanced free AI image generator. Create stunning, high-quality images from text descriptions in seconds. Unlimited generations, lightning-fast speed, complete privacy protection. No login required.",
     "ogImage": "/og-image.png",
-    "twitterHandle": "",
+    "twitterHandle": "@pixwaveai",
     "contact": {
-      "email": "contact@example.com",
-      "company": "Your Company",
+      "email": "support@pixwave.ai",
+      "company": "Pixwave AI",
       "address": ""
     },
     "legal": {
